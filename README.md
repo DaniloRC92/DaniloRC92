@@ -5,8 +5,8 @@
 <h4 align="center">I'm a back-end developer by training and a computer science graduate. I fell in love with programming and am always studying new technologies. My favorite languages so far are Java and Python. I love playing games and watching movies, series and animes.</h4>
 
 ## ⚙️ &nbsp;GitHub Analytics
-![RedPartyDan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedPartyDan&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedPartyDan&layout=compact&langs_count=7&theme=tokyonight)
+![DaniloRC92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloRC92&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloRC92&layout=compact&langs_count=7&theme=tokyonight)
 
 ## 💻 Technologies in use and studies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
