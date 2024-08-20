@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Computer+Science+Student;Junior+Back-End+Developer;Always+learning+new+technologies;One+piece+fan" alt="Typing SVG" /></a>
 </p>
-<h4 align="center">I'm a back-end developer by training and a computer science graduate. I fell in love with programming and am always studying new technologies. My favorite languages so far are Java and Python. I love playing games and watching movies, series and animes.</h4>
+<h4 align="center">I'm a back-end developer by training and a computer science graduate. I fell in love with programming and am always studying new technologies. My favorite languages so far are Java and Python. I love playing games and watching movies, series and animes. </h4>
 
 ## ⚙️ &nbsp;GitHub Analytics
 ![DaniloRC92's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloRC92&show_icons=true&theme=tokyonight) 
