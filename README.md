@@ -1,4 +1,4 @@
-# Danilo Ramos
+#Olá, meu nome é Danilo Ramos
 
 Software Engineer em Belo Horizonte. No dia a dia trabalho com CRM, analytics e automação de processos; nas horas vagas, gosto de mexer com back-end em Node.js e TypeScript. Na reta final de Ciência da Computação na Dom Helder.
 
